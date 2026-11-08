@@ -9,15 +9,6 @@ I'm a **B.Tech-MSc Dual Degree** student at **IIT Gandhinagar**, pursuing B.Tech
 - **Graduate:** MSc in Cognitive Science
 - **Institution:** IIT Gandhinagar
 
-## 🔬 Research Interests
-
-I'm passionate about understanding the neural mechanisms underlying cognition and behavior:
-
-### Primary Focus Areas
-- **Cat categorization neuroscience** - Investigating how neural circuits support categorical perception and learning
-- **Neural plasticity** - Exploring how the brain adapts and reorganizes through experience
-- **Learning and memory** - Understanding how memories are encoded, consolidated, and retrieved
-
 ### Methodological Approaches
 I work with various neuroscience methods including:
 - Computational modeling and behavioral experiments
@@ -48,7 +39,7 @@ Study guides on fundamental learning mechanisms
 
 ## 🌱 What I'm Currently Exploring
 
-- Neural mechanisms of category learning
+- Perception of tactile stimuli 
 - Plasticity in sensory systems
 - Computational models of memory formation
 - Integration of behavioral and neural data

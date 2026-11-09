@@ -1,10 +1,18 @@
 # Pravalli Matta
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pravallimatta-cloud/pravallimatta-cloud/main/assets/neural-circuit.svg" alt="Minimal animated neural circuit" width="100%" />
+</p>
+
 I am an undergraduate student pursuing a B.Tech–M.Sc. Dual Degree at the Indian Institute of Technology Gandhinagar, with a background in Electrical Engineering and Cognitive Science.
 
 My academic interests lie in understanding how the brain processes information, learns from experience, and represents the world. I am particularly interested in perception, memory, decision-making, and the neural mechanisms underlying cognition.
 
 My work so far has involved behavioural experiments, psychophysics, and the analysis of neural data, including EEG and fMRI. I have also worked with computational methods for analysing perceptual similarity and studying patterns in neural activity.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pravallimatta-cloud/pravallimatta-cloud/main/assets/neural-signal.svg" alt="Animated neural signal waveform" width="100%" />
+</p>
 
 ## Areas of Interest
 

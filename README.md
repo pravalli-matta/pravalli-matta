@@ -1,44 +1,36 @@
 # Pravalli Matta
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pravallimatta-cloud/pravallimatta-cloud/main/assets/neural-circuit.svg" alt="Minimal animated neural circuit" width="100%" />
+  <img src="https://raw.githubusercontent.com/pravallimatta-cloud/pravallimatta-cloud/main/assets/brain-sketch.svg" alt="Hand-drawn brain illustration with subtle animated detail" width="100%" />
 </p>
 
-I am an undergraduate student pursuing a B.Tech–M.Sc. Dual Degree at the Indian Institute of Technology Gandhinagar, with a background in Electrical Engineering and Cognitive Science.
+I am an undergraduate student pursuing a B.Tech–M.Sc. Dual Degree at IIT Gandhinagar, studying Electrical Engineering and Cognitive Science.
 
-My academic interests lie in understanding how the brain processes information, learns from experience, and represents the world. I am particularly interested in perception, memory, decision-making, and the neural mechanisms underlying cognition.
+I am curious about how we perceive, remember, learn, and make decisions — and how all those little processes come together to shape our experience of the world. I enjoy exploring these questions through behavioural experiments, psychophysics, and computational approaches to cognition.
 
-My work so far has involved behavioural experiments, psychophysics, and the analysis of neural data, including EEG and fMRI. I have also worked with computational methods for analysing perceptual similarity and studying patterns in neural activity.
+Outside academics, I love pen-and-pencil sketching. I’m drawn to the details: observing, connecting patterns, and turning ideas into something visual.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pravallimatta-cloud/pravallimatta-cloud/main/assets/neural-signal.svg" alt="Animated neural signal waveform" width="100%" />
-</p>
+## Things I’m curious about
 
-## Areas of Interest
+Perception · Memory · Learning · Decision-making · Social cognition · The relationship between mind, brain, and behaviour
 
-- Cognitive neuroscience and neural mechanisms of learning and memory
-- Sensory perception and psychophysics
-- Human decision-making and social cognition
-- Neural data analysis and computational approaches to cognition
-
-## Selected Projects
+## Selected work
 
 **Perception**
 - [Perceptual Organization of Complex Vibrotactile Stimuli](https://github.com/pravallimatta-cloud/Perceptual-Organization-of-Complex-Vibrotactile-Stimuli)
 
-**Neural Data Analysis**
+**Neural data and decision-making**
 - [Neural Correlates of Feedback Processing in Competitive Decision-Making (EEG)](https://github.com/pravallimatta-cloud/Neural-Correlates-of-Feedback-Processing-in-Competitive-Decision-Making-Using-EEG)
 - [Strategy-Dependent Neural Processing During Social Decision-Making (fMRI)](https://github.com/pravallimatta-cloud/Strategy-Dependent-Neural-Processing-During-Social-Decision-Making-in-Romantic-Couples)
 
-**Learning and Memory**
+**Learning and memory**
 - [Habituation and Sensitization in *Aplysia*](https://github.com/pravallimatta-cloud/Habituation-and-Sensitization-Study-Guide)
 - [Episodic Memory in the Hippocampus and Time Cells](https://github.com/pravallimatta-cloud/Episodic-Memory-in-the-Hippocampus-and-Time-Cells)
 
-## Tools and Methods
+## Tools
 
-Python, MATLAB, MNE-Python, FSL FEAT, EEG/ERP analysis, fMRI analysis, Multidimensional Scaling, Representational Similarity Analysis, and statistical methods.
+Python · MATLAB · MNE-Python · FSL · Psychophysics · EEG/fMRI analysis · Multidimensional Scaling · Representational Similarity Analysis
 
-## Contact
+## Find me
 
-- [LinkedIn](https://www.linkedin.com/in/pravalli-matta-hii/)
-- [Email](mailto:pravallimatta@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pravalli-matta-hii/) · [Email](mailto:pravallimatta@gmail.com)

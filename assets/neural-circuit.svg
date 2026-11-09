@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-label="Minimal neural network diagram with a moving signal">
+<rect width="960" height="150" fill="#fff" fill-opacity="0"/>
+<g fill="none" stroke="#78949a" stroke-width="1.35" opacity=".72">
+<path d="M88 76 L250 36 L410 82 L570 34 L738 75 L872 38"/>
+<path d="M88 76 L250 112 L410 82 L570 116 L738 75 L872 112"/>
+<path d="M250 36 L250 112 M570 34 L570 116 M738 75 L872 38 M410 82 L570 34 M410 82 L570 116"/>
+</g>
+<g fill="#f7f7f2" stroke="#527d83" stroke-width="1.6">
+<circle cx="88" cy="76" r="5"/><circle cx="250" cy="36" r="5"/><circle cx="250" cy="112" r="5"/>
+<circle cx="410" cy="82" r="5"/><circle cx="570" cy="34" r="5"/><circle cx="570" cy="116" r="5"/>
+<circle cx="738" cy="75" r="5"/><circle cx="872" cy="38" r="5"/><circle cx="872" cy="112" r="5"/>
+</g>
+<circle r="4.2" fill="#c28d56">
+<animateMotion dur="5.4s" repeatCount="indefinite" path="M88 76 L250 36 L410 82 L570 34 L738 75 L872 38"/>
+</circle>
+<circle r="2.4" fill="#c28d56" opacity=".35">
+<animateMotion dur="5.4s" begin="-2.7s" repeatCount="indefinite" path="M88 76 L250 36 L410 82 L570 34 L738 75 L872 38"/>
+</circle>
+</svg>

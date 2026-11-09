@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Hand-drawn brain illustration with gently moving neural connections">
+<defs>
+  <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="2" r=".45" fill="#7d8580" opacity=".22"/>
+    <circle cx="5" cy="5" r=".35" fill="#7d8580" opacity=".18"/>
+  </pattern>
+</defs>
+<rect width="1000" height="280" fill="#fbfaf6"/>
+<path d="M0 235 C190 218 300 252 480 232 S790 215 1000 238" fill="none" stroke="#d8d5cb" stroke-width="1"/>
+<g transform="translate(360 8)" stroke="#344b4b" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <path d="M134 231 C111 219 91 206 79 188 C58 184 44 169 47 149 C28 132 34 108 51 96 C46 73 63 54 84 53 C93 29 119 21 140 32 C155 9 184 11 198 31 C220 20 247 32 251 55 C276 61 286 85 276 105 C294 124 284 150 266 160 C268 185 249 201 226 198 C210 222 184 228 165 216 C155 228 144 232 134 231Z" stroke-width="3.2"/>
+  <path d="M134 231 C128 207 135 190 147 177 C158 160 151 143 138 132 C122 120 124 100 138 88 C148 79 149 63 141 32" stroke-width="2.4"/>
+  <path d="M80 188 C98 180 107 166 101 151 C94 136 103 121 119 118 C134 115 139 102 131 88" stroke-width="2.4"/>
+  <path d="M53 146 C72 145 82 132 78 116 C74 101 84 88 99 88 C114 88 120 77 115 62" stroke-width="2.4"/>
+  <path d="M84 53 C96 62 100 75 93 88 M140 32 C157 45 161 61 151 75 M198 31 C185 44 184 59 193 71" stroke-width="2.4"/>
+  <path d="M151 177 C169 169 177 153 169 137 C161 122 169 106 185 101 C201 96 205 80 196 66" stroke-width="2.4"/>
+  <path d="M147 177 C164 187 183 184 191 168 C198 153 214 148 227 158 C241 168 255 164 266 160" stroke-width="2.4"/>
+  <path d="M185 101 C199 113 216 111 224 97 C232 83 246 80 263 89 M198 31 C207 47 222 53 237 47 M251 55 C239 68 239 82 251 92" stroke-width="2.4"/>
+  <path d="M79 188 C89 203 107 210 122 204 M226 198 C214 185 215 171 227 158" stroke-width="2.4"/>
+  <path d="M131 238 C145 246 165 245 178 235" stroke-width="2.2"/>
+  <path d="M48 149 C42 163 49 178 63 184 M275 106 C285 119 281 137 267 146" stroke="#a9aaa0" stroke-width="1.2"/>
+  <path d="M134 231 C111 219 91 206 79 188 C58 184 44 169 47 149 C28 132 34 108 51 96 C46 73 63 54 84 53 C93 29 119 21 140 32 C155 9 184 11 198 31 C220 20 247 32 251 55 C276 61 286 85 276 105 C294 124 284 150 266 160 C268 185 249 201 226 198 C210 222 184 228 165 216 C155 228 144 232 134 231Z" stroke="#9caaa3" stroke-width=".8" transform="translate(2 2)"/>
+</g>
+<g fill="none" stroke="#b47e55" stroke-width="1.6" stroke-linecap="round">
+  <path d="M315 78 C270 52 234 54 204 80" stroke-dasharray="2 7"/>
+  <path d="M684 191 C727 219 771 211 797 183" stroke-dasharray="2 7"/>
+  <circle cx="203" cy="81" r="3" fill="#b47e55"/>
+  <circle cx="798" cy="182" r="3" fill="#b47e55"/>
+</g>
+<g fill="#627d78" font-family="Georgia,serif" font-size="12" letter-spacing="3">
+  <text x="92" y="62">PERCEPTION</text>
+  <text x="765" y="222">MEMORY</text>
+</g>
+<g fill="none" stroke="#b47e55" stroke-width="2" stroke-linecap="round">
+  <path d="M808 64 l88 88" opacity=".7"/>
+  <path d="M800 72 l8 -8 l88 88 l-8 8Z" opacity=".7"/>
+  <path d="M888 152 l8 -8 l6 14Z" fill="#b47e55" opacity=".7"/>
+</g>
+<circle cx="500" cy="130" r="4" fill="#b47e55">
+  <animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/>
+  <animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+<path d="M0 0 H1000 V280 H0Z" fill="url(#grain)" opacity=".18"/>
+</svg>

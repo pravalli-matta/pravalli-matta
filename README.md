@@ -1,56 +1,35 @@
-# 👋 Hi, I'm Pravalli Matta!
+# Pravalli Matta
 
-I'm a **B.Tech-MSc Dual Degree** student at **IIT Gandhinagar**, pursuing B.Tech in Electrical Engineering and MSc in Cognitive Science.
+I am an undergraduate student pursuing a B.Tech–M.Sc. Dual Degree at the Indian Institute of Technology Gandhinagar, with a background in Electrical Engineering and Cognitive Science.
 
-## 🎓 Academic Background
+My academic interests lie in understanding how the brain processes information, learns from experience, and represents the world. I am particularly interested in perception, memory, decision-making, and the neural mechanisms underlying cognition.
 
-- **Current Program:** B.Tech-MSc Dual Degree
-- **Undergraduate:** B.Tech in Electrical Engineering
-- **Graduate:** MSc in Cognitive Science
-- **Institution:** IIT Gandhinagar
+My work so far has involved behavioural experiments, psychophysics, and the analysis of neural data, including EEG and fMRI. I have also worked with computational methods for analysing perceptual similarity and studying patterns in neural activity.
 
-### Methodological Approaches
-I work with various neuroscience methods including:
-- Computational modeling and behavioral experiments
-- Neuroimaging (fMRI)
-- Electrophysiology (EEG)
-- Psychophysics and cognitive tasks
+## Areas of Interest
 
-## 📚 Projects
+- Cognitive neuroscience and neural mechanisms of learning and memory
+- Sensory perception and psychophysics
+- Human decision-making and social cognition
+- Neural data analysis and computational approaches to cognition
 
-This repository contains my academic research projects spanning cognitive neuroscience, perception, and learning. Each project explores different aspects of how the brain processes information and adapts through experience.
+## Selected Projects
 
-### Featured Research Areas
+**Perception**
+- Perceptual Organization of Complex Vibrotactile Stimuli
 
-🧠 **Vibrotactile Perception**  
-Investigating how complex tactile stimuli are organized and perceived
+**Neural Data Analysis**
+- Neural Correlates of Feedback Processing in Competitive Decision-Making (EEG)
+- Strategy-Dependent Neural Processing During Social Decision-Making (fMRI)
 
-⏰ **Episodic Memory & Time Cells**  
-Exploring hippocampal mechanisms for temporal and contextual memory
+**Learning and Memory**
+- Habituation and Sensitization in *Aplysia*
+- Episodic Memory in the Hippocampus and Time Cells
 
-💑 **Social Decision-Making**  
-Understanding neural correlates of decisions in romantic relationships
+## Tools and Methods
 
-🎯 **Feedback Processing**  
-EEG investigations of competitive decision-making outcomes
+Python, MATLAB, MNE-Python, FSL FEAT, EEG/ERP analysis, fMRI analysis, Multidimensional Scaling, Representational Similarity Analysis, and statistical methods.
 
-📖 **Learning & Habituation**  
-Study guides on fundamental learning mechanisms
+## Contact
 
-## 🌱 What I'm Currently Exploring
-
-- Perception of tactile stimuli 
-- Plasticity in sensory systems
-- Computational models of memory formation
-- Integration of behavioral and neural data
-
-## 📫 Connect With Me
-
-- **GitHub:** [pravallimatta-cloud](https://github.com/pravallimatta-cloud)
-- **Institution:** [IIT Gandhinagar](https://www.iitgn.ac.in)
-
----
-
-*"Understanding the brain to understand ourselves"*
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravallimatta-cloud&show_icons=true&theme=radical)](https://github.com/pravallimatta-cloud)
+- [LinkedIn](https://www.linkedin.com/in/pravalli-matta-hii/)

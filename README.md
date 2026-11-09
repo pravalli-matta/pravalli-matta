@@ -16,15 +16,15 @@ My work so far has involved behavioural experiments, psychophysics, and the anal
 ## Selected Projects
 
 **Perception**
-- Perceptual Organization of Complex Vibrotactile Stimuli
+- [Perceptual Organization of Complex Vibrotactile Stimuli](https://github.com/pravallimatta-cloud/Perceptual-Organization-of-Complex-Vibrotactile-Stimuli)
 
 **Neural Data Analysis**
-- Neural Correlates of Feedback Processing in Competitive Decision-Making (EEG)
-- Strategy-Dependent Neural Processing During Social Decision-Making (fMRI)
+- [Neural Correlates of Feedback Processing in Competitive Decision-Making (EEG)](https://github.com/pravallimatta-cloud/Neural-Correlates-of-Feedback-Processing-in-Competitive-Decision-Making-Using-EEG)
+- [Strategy-Dependent Neural Processing During Social Decision-Making (fMRI)](https://github.com/pravallimatta-cloud/Strategy-Dependent-Neural-Processing-During-Social-Decision-Making-in-Romantic-Couples)
 
 **Learning and Memory**
-- Habituation and Sensitization in *Aplysia*
-- Episodic Memory in the Hippocampus and Time Cells
+- [Habituation and Sensitization in *Aplysia*](https://github.com/pravallimatta-cloud/Habituation-and-Sensitization-Study-Guide)
+- [Episodic Memory in the Hippocampus and Time Cells](https://github.com/pravallimatta-cloud/Episodic-Memory-in-the-Hippocampus-and-Time-Cells)
 
 ## Tools and Methods
 
@@ -33,3 +33,4 @@ Python, MATLAB, MNE-Python, FSL FEAT, EEG/ERP analysis, fMRI analysis, Multidime
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/pravalli-matta-hii/)
+- [Email](mailto:pravallimatta@gmail.com)

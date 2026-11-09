@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72" role="img" aria-label="Minimal animated neural signal waveform">
+<path d="M0 36 H960" fill="none" stroke="#cbd4d1" stroke-width="1"/>
+<path d="M0 36 L110 36 L130 34 L145 36 L160 36 L178 15 L190 57 L204 26 L218 36 L310 36 L330 34 L345 36 L360 36 L378 15 L390 57 L404 26 L418 36 L510 36 L530 34 L545 36 L560 36 L578 15 L590 57 L604 26 L618 36 L710 36 L730 34 L745 36 L760 36 L778 15 L790 57 L804 26 L818 36 L960 36" fill="none" stroke="#527d83" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1100" stroke-dashoffset="1100">
+<animate attributeName="stroke-dashoffset" from="1100" to="0" dur="5s" repeatCount="indefinite"/>
+</path>
+</svg>
